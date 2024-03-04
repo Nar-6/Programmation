@@ -1,0 +1,28 @@
+C:\Users\lenovo\Desktop\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.AssemblyInfo.vb
+C:\Users\lenovo\Desktop\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Nouveau dossier\bin\Debug\net7.0\Nouveau dossier.exe
+C:\Users\lenovo\Desktop\Nouveau dossier\bin\Debug\net7.0\Nouveau dossier.deps.json
+C:\Users\lenovo\Desktop\Nouveau dossier\bin\Debug\net7.0\Nouveau dossier.runtimeconfig.json
+C:\Users\lenovo\Desktop\Nouveau dossier\bin\Debug\net7.0\Nouveau dossier.dll
+C:\Users\lenovo\Desktop\Nouveau dossier\bin\Debug\net7.0\Nouveau dossier.pdb
+C:\Users\lenovo\Desktop\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.dll
+C:\Users\lenovo\Desktop\Nouveau dossier\obj\Debug\net7.0\refint\Nouveau dossier.dll
+C:\Users\lenovo\Desktop\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.pdb
+C:\Users\lenovo\Desktop\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Nouveau dossier\obj\Debug\net7.0\ref\Nouveau dossier.dll
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\bin\Debug\net7.0\Nouveau dossier.exe
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\bin\Debug\net7.0\Nouveau dossier.deps.json
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\bin\Debug\net7.0\Nouveau dossier.runtimeconfig.json
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\bin\Debug\net7.0\Nouveau dossier.dll
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\bin\Debug\net7.0\Nouveau dossier.pdb
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.AssemblyInfo.vb
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.dll
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\obj\Debug\net7.0\refint\Nouveau dossier.dll
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.pdb
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\obj\Debug\net7.0\Nouveau dossier.genruntimeconfig.cache
+C:\Users\lenovo\Documents\Programmation\visual Basic\Nouveau dossier\obj\Debug\net7.0\ref\Nouveau dossier.dll

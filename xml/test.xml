@@ -1,0 +1,21 @@
+<?xml version="0.25.0" encoding="UTF-8" standalone="yes" ?>
+
+<repertoire>
+    <personne sexe="M">
+       <nom></nom>
+       <prenom></prenom>
+       <telephones>
+           <numero type="fixe"><numero>
+
+       </telephones>
+       <emails>
+            <email type="professionnel"></email>
+       </emails>
+       <adresse>
+            <pays></pays>
+            <ville></ville>
+           <quartier></quartier>
+       </adresse>
+    </personne>
+    
+</repertoire>

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669633509 source:c:\users\lenovo\documents\programmation\nomage\main.c
+	<stdio.h>
+	<stdlib.h>
+

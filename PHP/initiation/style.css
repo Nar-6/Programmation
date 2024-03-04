@@ -1,0 +1,50 @@
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+    align-items: center;
+    height: 30px;
+}
+nav{
+    height: 50px;
+}
+header{
+    background-color: #424558;
+    color: #fff;
+    border-bottom: #424558       ;
+}
+nav ul li{
+    font-size: 15px;
+}
+p{
+    font-size: 13px;
+}
+h2{
+    font-size: 42px;
+}
+html{
+    font-family: Century Gothic ;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+.banniere{
+    width: 100%;
+    height: 100px;
+    /* background-image: url('images/bannier.jpg');
+    background-size: cover;
+    background-position-y: center ;
+    background-repeat: no-repeat; */
+}
+.banniere img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+main{
+}
+section{
+    height: 200px ;
+}

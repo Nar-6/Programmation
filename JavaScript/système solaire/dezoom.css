@@ -1,0 +1,410 @@
+body {
+    background: #000;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-bottom: 10em;
+}
+
+.sun {
+    background-color: yellow;
+    border-radius: 50%;
+    height: 20em;
+    width: 20em;
+    box-shadow: 0 0 3em white;
+    top: 80em;
+    position: absolute;
+}
+
+.mercure,.venus, .saturne, .terre, .mars, .uranus, .jupiter, .neptune, .pluton {
+    position: absolute;
+    border-radius: 50%;
+    border-width: 0.1em 0.1em 0.1em 0.1em ;
+    /* border-style: solid; */
+    border-color: white ;
+    
+}
+
+    .lune, .phobos, .deimos, .io, .europe, .ganymede, .callisto , .titania , .triton{
+        position: absolute;
+        border-radius: 50%;
+        border-width: 0.05em 0.05em 0.05em 0.05em ;
+        /* border-style: solid; */
+        border-color: white ; 
+    }
+
+.mercure {
+    height: 27em;
+    width: 27em;
+    top: 76.5em;
+    animation: orbit 4.7s linear infinite;
+}
+
+.venus {
+    height: 34em;
+    width: 34em;
+    top: 73em;
+    animation: orbit 5.5s linear infinite;
+}
+
+.mars{
+    height: 48em;
+    width: 48em;
+    top: 66em;
+    animation: orbit 6.8s linear infinite;
+}
+
+    .phobos {
+        height: 5em;
+        width: 5em;
+        top: 1.45em;
+        left: 7.45em;
+        animation: orbit 2.2s linear infinite;
+    }
+
+    .deimos {   
+        height: 6.5em;
+        width: 6.5em;
+        top: 0.7em;
+        left: 6.8em;
+        animation: orbit 1.4s linear infinite;
+    }
+
+
+.terre {
+    height: 68em;
+    width: 68em;
+    top: 56em;
+    animation: orbit 9.6s linear infinite;
+}
+    .lune {    
+        height: 8em;
+        width: 8em;
+        top: 2.5em;
+        left: 9.5em;
+        animation: orbit 1.1s linear infinite;    
+    }
+
+.jupiter {
+    height: 90em;
+    width: 90em;
+    top: 44.5em;
+    animation: orbit 13.7s linear infinite;
+}
+
+    .io {    
+        height: 10em;
+        width: 10em;
+        top: 5em;
+        left: 12em;
+        animation: orbit 17.3s linear infinite;    
+    }
+
+    .europe {    
+        height: 11.5em;
+        width: 11.5em;
+        top: 4.3em;
+        left: 11.3em;
+        animation: orbit 13.7s linear infinite;    
+    }
+
+    .ganymede {    
+        height: 13em;
+        width: 13em;
+        top: 3.6em;
+        left: 10.6em;
+        animation: orbit 10.9s linear infinite;    
+    }
+
+    .callisto {    
+        height: 14.5em;
+        width: 14.5em;
+        top: 2.9em;
+        left: 9.9em;
+        animation: orbit 8.2s linear infinite;    
+    }
+
+.saturne {
+    height: 110em;
+    width: 110em;
+    top: 34.5em;
+    animation: orbit 24s linear infinite;
+}
+
+    .anneauxA {
+        position: absolute;
+        border-radius: 50%;
+        border-width: 0.4em 0.4em 0.4em 0.4em ;
+        border-style: solid;
+        border-color: rgb(255,185,54);
+        height: 8em;
+        width: 8em;
+        top: 7.2em;
+        left: 17.2em;
+        animation: orbit 15s linear infinite; 
+    }
+
+    .anneauxB {
+        position: absolute;
+        border-radius: 50%;
+        border-width: 0.4em 0.4em 0.4em 0.4em ;
+        border-style: solid;
+        border-color: rgb(255, 198, 91);
+        height: 9em;
+        width: 9em;
+        top: 6.7em;
+        left: 16.7em;
+        animation: orbit 15s linear infinite; 
+    }
+
+    .anneauxC {
+        position: absolute;
+        border-radius: 50%;
+        border-width: 0.6em 0.6em 0.6em 0.6em ;
+        border-style: solid;
+        border-color: rgb(255, 226, 171);
+        height: 10em;
+        width: 10em;
+        top: 5.95em;
+        left: 15.95em;
+        animation: orbit 15s linear infinite; 
+    }
+
+.uranus {
+    height: 130em;
+    width: 130em;
+    top: 24.5em;
+    animation: orbit 29.7s linear infinite;
+}
+
+    .anneaux {
+        position: absolute;
+        border-radius: 50%;
+        border-width: 0.4em 0.4em 0.4em 0.4em ;
+        border-style: solid;
+        border-color: whitesmoke;
+        height: 7em;
+        width: 7em;
+        top: 9.15em;
+        left: 22.17em;
+        animation: orbit 15s linear infinite; 
+    }
+
+    .titania{
+        height: 8.5em;
+        width: 8.5em;
+        top:8.7em;
+        left: 21.7em;
+        animation: orbit 13.7s linear infinite;    
+    }
+
+.neptune {
+    height: 150em;
+    width: 150em;
+    top: 14.5em;
+    animation: orbit 35s linear infinite;
+}
+
+    .triton{
+        height: 8.5em;
+        width: 8.5em;
+        top:11.9em;
+        left: 23.9em;
+        animation: orbit 13.7s linear infinite;
+    }
+
+.pluton {
+    height: 160em;
+    width: 160em;
+    top: 9.5em;
+    animation: orbit 47.9s linear infinite;
+}
+
+.mercure::before, .venus::before, .saturne::before, .terre::before, .mars::before, .uranus::before, .jupiter::before, .neptune::before ,.pluton::before {
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+}
+
+    .lune::before, .phobos::before, .deimos::before, .io::before, .europe::before,.ganymede::before ,.callisto::before , .titania::before, .triton::before{
+        content: "";
+        position: absolute;
+        border-radius: 50%;
+    }
+
+.mercure::before {
+    height: 2em;
+    width: 2em;
+    background-color: maroon;
+    left: 5em;
+    top: 1em;
+}
+
+.venus::before {
+    height: 5em;
+    width: 5em;
+    background-color: orange;
+    left: 4em;
+    top: 1em;
+}
+
+.mars::before{
+    height: 4em;
+    width: 4em;
+    background-color: red;
+    left: 8em;
+    top: 2em;
+}
+
+    .phobos::before {
+        height: 0.5em;
+        width: 0.5em;
+        background-color:gray;
+        left: 4.1em;
+        top: 4em;
+    }
+
+    .deimos::before {
+        height: 0.3em;
+        width: 0.3em;
+        background-color:grey;
+        left: 6.25em;
+        top: 4em;
+    }
+
+.terre::before {
+    height: 5em;
+    width: 5em;
+    background-color:aquamarine;
+    left: 11em;
+    top: 4em;
+}
+
+    .lune::before {
+        height: 0.8em;
+        width: 0.8em;
+        background-color:whitesmoke;
+        left: 7.6em;
+        top: 4em;
+    }
+
+.jupiter::before {
+    height: 8em;
+    width: 8em;
+    background-color: orangered;
+    left: 13em;
+    top: 6em;
+}
+
+    .io::before {
+        height: 0.7em;
+        width: 0.7em;
+        background: rgb(255,0,0);
+        background: radial-gradient(circle, rgba(255,0,0,1) 24%, rgba(255,171,0,1) 50%, rgba(254,255,0,1) 100%);
+        left: 9.65em;
+        top: 4em;
+    }
+
+    .europe::before {
+        height: 0.65em;
+        width: 0.65em;
+        background-color:white;
+        left: 11em;
+        top: 4em;
+    }
+
+    .ganymede::before {
+        height:1.1em;
+        width: 1.1em;
+        background-color:rgb(83, 83, 83);
+        left: 12.2em;
+        top: 4em;
+    }
+
+    .callisto::before {
+        height: 1em;
+        width: 1em;
+        background-color:rgb(54, 54, 54);
+        left: 13.6em;
+        top: 4em;
+    }
+
+.saturne::before {
+    height: 7em;
+    width: 7em;
+    background-color:rgb(170, 120, 27);
+    left: 18em;
+    top: 8em;
+}
+
+.uranus::before {
+    height:6em;
+    width: 6em;
+    background-color: lightblue;
+    left: 23em;
+    top: 10em;
+}
+
+    .titania::before {
+        height: 0.6em;
+        width: 0.6em;
+        background-color:rgb(93, 121, 126);
+        left: 8.25em;
+        top: 4em;
+    }
+
+.neptune::before {
+    height: 6.5em;
+    width: 6.5em;
+    background-color: aqua;
+    left: 25em;
+    top: 13em;
+}
+
+    .triton::before{
+        height: 0.7em;
+        width: 0.7em;
+        background-color:whitesmoke;
+        left: 8.25em;
+        top: 4em;
+    }
+
+.pluton::before {
+    height: 3em;
+    width: 3em;
+    background-color: gray;
+    left: 29em;
+    top: 15em;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+/* Fond de la barre de défilement */
+::-webkit-scrollbar-track {
+    background-color: #252525;
+}
+
+/* Poignée de la barre de défilement */
+::-webkit-scrollbar-thumb {
+    background-color: #000;
+    border-radius: 10px; /* Coins arrondis */
+}
+
+/* Style au survol de la poignée de la barre de défilement */
+::-webkit-scrollbar-thumb:hover {
+    background-color: grey; /* Couleur différente au survol */
+}
+
+
+@keyframes orbit {
+    to {
+        transform: rotate(360deg);
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\obj\Debug\net8.0\Personne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\obj\Debug\net8.0\Personne.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\obj\Debug\net8.0\Personne.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\obj\Debug\net8.0\Personne.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\bin\Debug\net8.0\Personne.exe
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\bin\Debug\net8.0\Personne.deps.json
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\bin\Debug\net8.0\Personne.runtimeconfig.json
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\bin\Debug\net8.0\Personne.dll
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\bin\Debug\net8.0\Personne.pdb
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\obj\Debug\net8.0\Personne.dll
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\obj\Debug\net8.0\refint\Personne.dll
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\obj\Debug\net8.0\Personne.pdb
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\obj\Debug\net8.0\Personne.genruntimeconfig.cache
+C:\Users\lenovo\Documents\Programmation\C#\Personne\Personne\obj\Debug\net8.0\ref\Personne.dll

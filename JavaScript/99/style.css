@@ -1,0 +1,68 @@
+html {
+    background-color: #252525;
+    height: calc(100% - 100px);
+}
+body{
+    /* width: 100%; */
+    height: 100% ;
+}
+.plateau {
+    border: rgb(250, 250, 245) 1px solid;
+    padding: 30px;
+    /* width: 100%; */
+    height: 100%;
+}
+.joueur1 ,.joueur2,.resultat {
+    width: 100%;
+    height:33.33%;
+}
+.joueur1 {
+    border: yellow 1px solid;
+}
+.joueur2 {
+   border: red 1px solid;
+}
+.ah{
+    margin-right: 1rem;
+    margin-left: 1rem;
+    width: 100px;
+    height: 9rem;
+    border-radius: 10px;
+}
+.calcul{
+    margin-right: 1rem;
+    margin-left: 1rem;
+    border: rgb(    249, 249, 247) 1px solid;
+    width: 100px;
+    height: 5.5rem;
+    border-radius: 10px;
+}
+.resultat {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pioche {
+    margin-right: 1rem;
+    margin-left: 1rem;
+    border: rgb(    249, 249, 247) 1px solid;
+    width: 100px;
+    height: 9rem;
+    border-radius: 10px;
+} 
+.cartes {
+    display: flex;
+    margin: 20px;
+    margin-right: 15rem;
+    margin-left: 15rem;
+    /* border: rgb(249, 249, 247) 1px solid; */
+    height: 9rem;
+    justify-content: center;
+}
+.carte {
+    margin-right: 1rem;
+    margin-left: 1rem;
+    border: rgb(    249, 249, 247) 1px solid;
+    width: 100px;
+    border-radius: 10px;
+}

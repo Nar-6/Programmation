@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\firstdotnet\bin\Debug\net8.0\NomDuProjet.exe
+C:\Users\lenovo\Desktop\firstdotnet\bin\Debug\net8.0\NomDuProjet.deps.json
+C:\Users\lenovo\Desktop\firstdotnet\bin\Debug\net8.0\NomDuProjet.runtimeconfig.json
+C:\Users\lenovo\Desktop\firstdotnet\bin\Debug\net8.0\NomDuProjet.dll
+C:\Users\lenovo\Desktop\firstdotnet\bin\Debug\net8.0\NomDuProjet.pdb
+C:\Users\lenovo\Desktop\firstdotnet\obj\Debug\net8.0\NomDuProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\firstdotnet\obj\Debug\net8.0\NomDuProjet.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\firstdotnet\obj\Debug\net8.0\NomDuProjet.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\firstdotnet\obj\Debug\net8.0\NomDuProjet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\firstdotnet\obj\Debug\net8.0\NomDuProjet.dll
+C:\Users\lenovo\Desktop\firstdotnet\obj\Debug\net8.0\refint\NomDuProjet.dll
+C:\Users\lenovo\Desktop\firstdotnet\obj\Debug\net8.0\NomDuProjet.pdb
+C:\Users\lenovo\Desktop\firstdotnet\obj\Debug\net8.0\NomDuProjet.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\firstdotnet\obj\Debug\net8.0\ref\NomDuProjet.dll
